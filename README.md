@@ -1,2 +1,2 @@
 # memory-game
-Memory game für Kinder
+Memory Mobil-App Mit Flutter entwickelt und als apk build bereitgestellt 
